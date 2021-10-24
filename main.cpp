@@ -18,11 +18,10 @@ int main ()
          podatek = podatekBazowyDlaDrugiegoProgu + stawka2 * (dochod-progPodatkowy);
     }
 
-    cout << "Twoj podatek wynosi: " << podatek << "z³\n";
+    cout << "Twoj podatek wynosi: " << podatek << "zÅ‚\n";
 
     cin.ignore();
     cin.get();
 
     return 0;
-
-}
+    }
