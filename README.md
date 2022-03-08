@@ -13,3 +13,4 @@ Przetestuj swój kod, korzystając z danych, które dostarczyliśmy.<br>
 Dane testowe<br>
 Przykładowe dane wejściowe: 10000
 Oczekiwany wynik: Podatek wynosi: 1244.0 talarów
+
