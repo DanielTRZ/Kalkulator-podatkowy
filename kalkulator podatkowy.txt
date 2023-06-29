@@ -15,7 +15,7 @@ int main ()
         if( podatek < 0 )
             podatek = 0;
     } else {
-         podatek = podatekBazowyDlaDrugiegoProgu + stawka2 * (dochod-progPodatkowy);
+          podatek = podatekBazowyDlaDrugiegoProgu + stawka2 * (dochod-progPodatkowy);
     }
 
     cout << "Twoj podatek wynosi: " << podatek << "zł\n";
