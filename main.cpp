@@ -14,7 +14,8 @@ int main ()
         podatek = stawka1 * dochod - kwotaZmniejszajacaPodatek;
         if( podatek < 0 )
             podatek = 0;
-    } else {
+    } 
+    else {
          podatek = podatekBazowyDlaDrugiegoProgu + stawka2 * (dochod-progPodatkowy);
     }
 
